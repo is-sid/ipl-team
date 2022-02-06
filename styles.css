@@ -1,0 +1,12 @@
+h4{
+    background-color: green;
+    border: 2px solid blue;
+    padding: 5px;
+    text-align: center;
+}
+
+p{
+    background-color: yellow;
+    border: 2px solid green;
+    padding: 5px;
+}
